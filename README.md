@@ -1,6 +1,6 @@
 Senac Times
 
-Link do site: https://arthuur-m.github.io/senactimes/
+Link do site: https://Arthur-lMachado.github.io/senactimes/
 
 Integrantes do grupo: Ana Clara, Arthur Machado, Pedro Eliah e Valentina Seger.
 
